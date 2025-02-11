@@ -24,6 +24,7 @@ MySQL版本: 8.3.0
 1.	可以打开navicat创建好数据库,然后执行sql文件将相关表导入数据库中
 操作步骤如下:
   ![image](https://github.com/user-attachments/assets/8d81cb9a-8bf2-4358-b114-2bf42d548bad)
+
 ![image](https://github.com/user-attachments/assets/a7e6851c-6853-4c93-be7c-9835e49c361a)
 
 
